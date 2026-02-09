@@ -2,7 +2,7 @@
 title: refleet
 description: AI-Native Backend-as-a-Service for modern SaaS applications
 logo: https://avatars.githubusercontent.com/u/201335910
-url: https://fleetlit.com
+url: https://refleet.cloud
 baseurl: ""
 lang: en_US
 
@@ -47,7 +47,7 @@ social:
   name: Refleet
   links:
     - https://github.com/refleetio
-    - https://discord.gg/fleetlit
+    - https://discord.gg/refleet
 
 # Analytics (optional)
 # google_analytics: UA-XXXXXXXXX-X
